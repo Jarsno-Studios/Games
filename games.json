@@ -1,8 +1,10 @@
 {
   "games": {
     "Beware the Jungle": {
-      "version": "1.90",
-      "html_file_path": "bewarethejungle.html"
+      "json": "bwtj/info.json"
+    },
+    "Rocket Blast": {
+      "json": "rb/info.json"
     }
   }
 }
