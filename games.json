@@ -3,7 +3,7 @@
     "Beware the Jungle": {
       "name": "Beware the Jungle",
       "latest": "1.20",
-      "logo": "bewarethejungle/logo.png",
+      "logo": "https://jarsno-studios.github.io/Games/bewarethejungle/logo.png",
       "versions": {
         "1.20": "https://jarsno-studios.github.io/Games/bewarethejungle/120.html"
       }
@@ -11,7 +11,7 @@
     "Rocket Blast": {
       "name": "Rocket Blast",
       "latest": "1.1",
-      "logo": "",
+      "logo": "https://jarsno-studios.github.io/Games/rocketblast/logo.png",
       "versions": {
         "1.1": "https://jarsno-studios.github.io/Games/rocketblast/11.html"
       }
