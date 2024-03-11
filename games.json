@@ -3,6 +3,7 @@
     "Beware the Jungle": {
       "name": "Beware the Jungle",
       "latest": "1.20",
+      "logo": "bewarethejungle/logo.png",
       "versions": {
         "1.20": "bewarethejungle/120.html"
       }
