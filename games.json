@@ -5,7 +5,7 @@
       "latest": "1.20",
       "logo": "bewarethejungle/logo.png",
       "versions": {
-        "1.20": "bewarethejungle/120.html"
+        "1.20": "https://jarsno-studios.github.io/Games/bewarethejungle/120.html"
       }
     },
     "Rocket Blast": {
@@ -13,7 +13,7 @@
       "latest": "1.1",
       "logo": "",
       "versions": {
-        "1.1": "rocketblast/11.html"
+        "1.1": "https://jarsno-studios.github.io/Games/rocketblast/11.html"
       }
     }
   }
